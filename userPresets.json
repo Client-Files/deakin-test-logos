@@ -1,0 +1,20 @@
+{
+  "userPresets": {
+    "abc123masked": {
+      "defaultVariant": "DU-AAII",
+      "roundel": true,
+      "reverse": false,
+      "width": 500,
+      "hidePlacement": false,
+      "autoReplace": true
+    },
+    "def456masked": {
+      "defaultVariant": "DU-GENERIC",
+      "roundel": false,
+      "reverse": false,
+      "width": 1000,
+      "hidePlacement": true,
+      "autoReplace": true
+    }
+  }
+}
